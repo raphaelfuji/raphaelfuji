@@ -1,4 +1,4 @@
-### ''Hello World' I'm Raphael Fuji 👋
+### 'Hello World' I'm Raphael Fuji 👋
 
 Hello, my name is Raphael Fuji. I am a beginner developer in ☕ Java and 💻 C #. I love technology. I want to contribute to the world by solving problems through code and technology. Currently learn PostreSQL, SQL and Java for Web. 
 
@@ -43,6 +43,9 @@ Hello, my name is Raphael Fuji. I am a beginner developer in ☕ Java and 💻 C
 
 <img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"> <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">  <img height="25" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+-------------------------------------------------------------------------------------------------------------------
+
+![Raphael Fuji GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelfuji&show_icons=true&theme=tokyonight)
 
 
 
